@@ -4,7 +4,7 @@ from time import sleep
 
 class Knight(threading.Thread):
     def __init__(self,name,power):
-        threading.Thread.__init__(self)
+        super().__init__()
         self.name = name
         self.power = power
 
