@@ -9,7 +9,6 @@ class Bank:
         self.lock = threading.Lock()
 
     def deposit(self):
-        self.lock.acquire()
         for i in range(100):
             a = random.randint(50,500)
             self.balance += a
