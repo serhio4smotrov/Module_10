@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="989779df-df6d-4430-9b1c-cbccf2edbd90" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/module_10_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_5/file 1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_5/file 2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_5/file 3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_5/file 4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_5/module_10_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,27 +49,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.fgdg.executor": "Run",
-    "Python.module_10_1.executor": "Run",
-    "Python.module_10_2.executor": "Run",
-    "Python.module_10_3.executor": "Run",
-    "Python.module_10_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fgdg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ser19\PycharmProjects\Module_10\Module_10_5" />
       <recent name="C:\Users\ser19\PycharmProjects\Module_10\Module_10_1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="module_10_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Module_10" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module_10_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module_10_5/module_10_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.module_10_5" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -110,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732717649339</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial">
+      <option name="closed" value="true" />
+      <created>1732735791753</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732735791753</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
